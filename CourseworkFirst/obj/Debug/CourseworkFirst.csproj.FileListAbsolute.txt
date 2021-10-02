@@ -1,0 +1,89 @@
+C:\Users\SablukovDV\Desktop\Новая папка (2)\Итого\ItorumPlugin _ финалочка рабочая\bin\Debug\CourseworkFirst.dll.config
+C:\Users\SablukovDV\Desktop\Новая папка (2)\Итого\ItorumPlugin _ финалочка рабочая\bin\Debug\CourseworkFirst.dll
+C:\Users\SablukovDV\Desktop\Новая папка (2)\Итого\ItorumPlugin _ финалочка рабочая\bin\Debug\CourseworkFirst.pdb
+C:\Users\SablukovDV\Desktop\Новая папка (2)\Итого\ItorumPlugin _ финалочка рабочая\bin\Debug\EntityFramework.dll
+C:\Users\SablukovDV\Desktop\Новая папка (2)\Итого\ItorumPlugin _ финалочка рабочая\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SablukovDV\Desktop\Новая папка (2)\Итого\ItorumPlugin _ финалочка рабочая\bin\Debug\TFlex.CAD.Strings.dll
+C:\Users\SablukovDV\Desktop\Новая папка (2)\Итого\ItorumPlugin _ финалочка рабочая\bin\Debug\EntityFramework.xml
+C:\Users\SablukovDV\Desktop\Новая папка (2)\Итого\ItorumPlugin _ финалочка рабочая\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SablukovDV\Desktop\Новая папка (2)\Итого\ItorumPlugin _ финалочка рабочая\bin\Debug\TFlexAPI.xml
+C:\Users\SablukovDV\Desktop\Новая папка (2)\Итого\ItorumPlugin _ финалочка рабочая\bin\Debug\TFlexAPI3D.xml
+C:\Users\SablukovDV\Desktop\Новая папка (2)\Итого\ItorumPlugin _ финалочка рабочая\bin\Debug\TFlexAPIData.xml
+C:\Users\SablukovDV\Desktop\Новая папка (2)\Итого\ItorumPlugin _ финалочка рабочая\bin\Debug\TFlexCommandAPI.xml
+C:\Users\SablukovDV\Desktop\Новая папка (2)\Итого\ItorumPlugin _ финалочка рабочая\obj\Debug\CourseworkFirst.csprojAssemblyReference.cache
+C:\Users\SablukovDV\Desktop\Новая папка (2)\Итого\ItorumPlugin _ финалочка рабочая\obj\Debug\CourseworkFirst.csproj.CoreCompileInputs.cache
+C:\Users\SablukovDV\Desktop\Новая папка (2)\Итого\ItorumPlugin _ финалочка рабочая\obj\Debug\CourseworkFirst.csproj.CopyComplete
+C:\Users\SablukovDV\Desktop\Новая папка (2)\Итого\ItorumPlugin _ финалочка рабочая\obj\Debug\CourseworkFirst.dll
+C:\Users\SablukovDV\Desktop\Новая папка (2)\Итого\ItorumPlugin _ финалочка рабочая\obj\Debug\CourseworkFirst.pdb
+C:\Users\soqohm\Desktop\0 CourseworkFirst\CourseworkFirst\bin\Debug\CourseworkFirst.dll.config
+C:\Users\soqohm\Desktop\0 CourseworkFirst\CourseworkFirst\bin\Debug\CourseworkFirst.dll
+C:\Users\soqohm\Desktop\0 CourseworkFirst\CourseworkFirst\bin\Debug\CourseworkFirst.pdb
+C:\Users\soqohm\Desktop\0 CourseworkFirst\CourseworkFirst\bin\Debug\EntityFramework.dll
+C:\Users\soqohm\Desktop\0 CourseworkFirst\CourseworkFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\soqohm\Desktop\0 CourseworkFirst\CourseworkFirst\bin\Debug\TFlexAPI.dll
+C:\Users\soqohm\Desktop\0 CourseworkFirst\CourseworkFirst\bin\Debug\TFlexAPI3D.dll
+C:\Users\soqohm\Desktop\0 CourseworkFirst\CourseworkFirst\bin\Debug\TFlexAPIData.dll
+C:\Users\soqohm\Desktop\0 CourseworkFirst\CourseworkFirst\bin\Debug\TFlexCommandAPI.dll
+C:\Users\soqohm\Desktop\0 CourseworkFirst\CourseworkFirst\bin\Debug\TFlex.CAD.Strings.dll
+C:\Users\soqohm\Desktop\0 CourseworkFirst\CourseworkFirst\bin\Debug\EntityFramework.xml
+C:\Users\soqohm\Desktop\0 CourseworkFirst\CourseworkFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\soqohm\Desktop\0 CourseworkFirst\CourseworkFirst\bin\Debug\TFlexAPI.xml
+C:\Users\soqohm\Desktop\0 CourseworkFirst\CourseworkFirst\bin\Debug\TFlexAPI3D.xml
+C:\Users\soqohm\Desktop\0 CourseworkFirst\CourseworkFirst\bin\Debug\TFlexAPIData.xml
+C:\Users\soqohm\Desktop\0 CourseworkFirst\CourseworkFirst\bin\Debug\TFlexCommandAPI.xml
+C:\Users\soqohm\Desktop\0 CourseworkFirst\CourseworkFirst\obj\Debug\CourseworkFirst.csproj.AssemblyReference.cache
+C:\Users\soqohm\Desktop\0 CourseworkFirst\CourseworkFirst\obj\Debug\CourseworkFirst.csproj.CoreCompileInputs.cache
+C:\Users\soqohm\Desktop\0 CourseworkFirst\CourseworkFirst\obj\Debug\CourseworkFirst.csproj.CopyComplete
+C:\Users\soqohm\Desktop\0 CourseworkFirst\CourseworkFirst\obj\Debug\CourseworkFirst.dll
+C:\Users\soqohm\Desktop\0 CourseworkFirst\CourseworkFirst\obj\Debug\CourseworkFirst.pdb
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst\CourseworkFirst\bin\Debug\CourseworkFirst.dll.config
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst\CourseworkFirst\bin\Debug\CourseworkFirst.dll
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst\CourseworkFirst\bin\Debug\CourseworkFirst.pdb
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst\CourseworkFirst\bin\Debug\EntityFramework.dll
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst\CourseworkFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst\CourseworkFirst\bin\Debug\TFlex.CAD.Strings.dll
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst\CourseworkFirst\bin\Debug\EntityFramework.xml
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst\CourseworkFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst\CourseworkFirst\bin\Debug\TFlexAPI.xml
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst\CourseworkFirst\bin\Debug\TFlexAPI3D.xml
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst\CourseworkFirst\bin\Debug\TFlexAPIData.xml
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst\CourseworkFirst\bin\Debug\TFlexCommandAPI.xml
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst\CourseworkFirst\obj\Debug\CourseworkFirst.csproj.AssemblyReference.cache
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst\CourseworkFirst\obj\Debug\CourseworkFirst.csproj.CoreCompileInputs.cache
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst\CourseworkFirst\obj\Debug\CourseworkFirst.csproj.CopyComplete
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst\CourseworkFirst\obj\Debug\CourseworkFirst.dll
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst\CourseworkFirst\obj\Debug\CourseworkFirst.pdb
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst3\CourseworkFirst\obj\Debug\CourseworkFirst.csproj.AssemblyReference.cache
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst3\CourseworkFirst\obj\Debug\CourseworkFirst.csproj.CoreCompileInputs.cache
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst3\CourseworkFirst\obj\Debug\CourseworkFirst.dll
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst3\CourseworkFirst\obj\Debug\CourseworkFirst.pdb
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst3\CourseworkFirst\bin\Debug\CourseworkFirst.dll.config
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst3\CourseworkFirst\bin\Debug\CourseworkFirst.dll
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst3\CourseworkFirst\bin\Debug\CourseworkFirst.pdb
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst3\CourseworkFirst\bin\Debug\EntityFramework.dll
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst3\CourseworkFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst3\CourseworkFirst\bin\Debug\TFlex.CAD.Strings.dll
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst3\CourseworkFirst\bin\Debug\EntityFramework.xml
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst3\CourseworkFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst3\CourseworkFirst\bin\Debug\TFlexAPI.xml
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst3\CourseworkFirst\bin\Debug\TFlexAPI3D.xml
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst3\CourseworkFirst\bin\Debug\TFlexAPIData.xml
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst3\CourseworkFirst\bin\Debug\TFlexCommandAPI.xml
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst3\CourseworkFirst\obj\Debug\CourseworkFirst.csproj.CopyComplete
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst4\CourseworkFirst\bin\Debug\CourseworkFirst.dll.config
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst4\CourseworkFirst\bin\Debug\CourseworkFirst.dll
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst4\CourseworkFirst\bin\Debug\CourseworkFirst.pdb
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst4\CourseworkFirst\bin\Debug\EntityFramework.dll
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst4\CourseworkFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst4\CourseworkFirst\bin\Debug\TFlex.CAD.Strings.dll
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst4\CourseworkFirst\bin\Debug\EntityFramework.xml
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst4\CourseworkFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst4\CourseworkFirst\bin\Debug\TFlexAPI.xml
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst4\CourseworkFirst\bin\Debug\TFlexAPI3D.xml
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst4\CourseworkFirst\bin\Debug\TFlexAPIData.xml
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst4\CourseworkFirst\bin\Debug\TFlexCommandAPI.xml
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst4\CourseworkFirst\obj\Debug\CourseworkFirst.csproj.AssemblyReference.cache
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst4\CourseworkFirst\obj\Debug\CourseworkFirst.csproj.CoreCompileInputs.cache
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst4\CourseworkFirst\obj\Debug\CourseworkFirst.csproj.CopyComplete
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst4\CourseworkFirst\obj\Debug\CourseworkFirst.dll
+C:\Users\soqohm\Desktop\Курсовая БД\CourseworkFirst4\CourseworkFirst\obj\Debug\CourseworkFirst.pdb

@@ -1,0 +1,75 @@
+C:\Users\soqohm\source\repos\ItorumPlugin\bin\Debug\ItorumPlugin.dll
+C:\Users\soqohm\source\repos\ItorumPlugin\bin\Debug\ItorumPlugin.pdb
+C:\Users\soqohm\source\repos\ItorumPlugin\bin\Debug\TFlexAPI.dll
+C:\Users\soqohm\source\repos\ItorumPlugin\bin\Debug\TFlexAPI3D.dll
+C:\Users\soqohm\source\repos\ItorumPlugin\bin\Debug\TFlexAPIData.dll
+C:\Users\soqohm\source\repos\ItorumPlugin\bin\Debug\TFlexCommandAPI.dll
+C:\Users\soqohm\source\repos\ItorumPlugin\bin\Debug\TFlex.CAD.Strings.dll
+C:\Users\soqohm\source\repos\ItorumPlugin\bin\Debug\TFlexAPI.xml
+C:\Users\soqohm\source\repos\ItorumPlugin\bin\Debug\TFlexAPI3D.xml
+C:\Users\soqohm\source\repos\ItorumPlugin\bin\Debug\TFlexAPIData.xml
+C:\Users\soqohm\source\repos\ItorumPlugin\bin\Debug\TFlexCommandAPI.xml
+C:\Users\soqohm\source\repos\ItorumPlugin\obj\Debug\ItorumPlugin.csproj.AssemblyReference.cache
+C:\Users\soqohm\source\repos\ItorumPlugin\obj\Debug\ItorumPlugin.csproj.CoreCompileInputs.cache
+C:\Users\soqohm\source\repos\ItorumPlugin\obj\Debug\ItorumPlugin.csproj.CopyComplete
+C:\Users\soqohm\source\repos\ItorumPlugin\obj\Debug\ItorumPlugin.dll
+C:\Users\soqohm\source\repos\ItorumPlugin\obj\Debug\ItorumPlugin.pdb
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin\bin\Debug\ItorumPlugin.dll
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin\bin\Debug\ItorumPlugin.pdb
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin\bin\Debug\ItorumDB.dll
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin\bin\Debug\TFlexAPI.dll
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin\bin\Debug\TFlexAPI3D.dll
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin\bin\Debug\TFlexAPIData.dll
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin\bin\Debug\TFlexCommandAPI.dll
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin\bin\Debug\TFlex.CAD.Strings.dll
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin\bin\Debug\TFlexAPI.xml
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin\bin\Debug\TFlexAPI3D.xml
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin\bin\Debug\TFlexAPIData.xml
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin\bin\Debug\TFlexCommandAPI.xml
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin\obj\Debug\ItorumPlugin.csproj.AssemblyReference.cache
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin\obj\Debug\ItorumPlugin.csproj.CoreCompileInputs.cache
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin\obj\Debug\ItorumPlugin.csproj.CopyComplete
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin\obj\Debug\ItorumPlugin.dll
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin\obj\Debug\ItorumPlugin.pdb
+C:\Users\soqohm\Desktop\ItorumPlugin\bin\Debug\ItorumPlugin.dll.config
+C:\Users\soqohm\Desktop\ItorumPlugin\bin\Debug\ItorumPlugin.dll
+C:\Users\soqohm\Desktop\ItorumPlugin\bin\Debug\ItorumPlugin.pdb
+C:\Users\soqohm\Desktop\ItorumPlugin\bin\Debug\EntityFramework.dll
+C:\Users\soqohm\Desktop\ItorumPlugin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\soqohm\Desktop\ItorumPlugin\bin\Debug\TFlexAPI.dll
+C:\Users\soqohm\Desktop\ItorumPlugin\bin\Debug\TFlexAPI3D.dll
+C:\Users\soqohm\Desktop\ItorumPlugin\bin\Debug\TFlexAPIData.dll
+C:\Users\soqohm\Desktop\ItorumPlugin\bin\Debug\TFlexCommandAPI.dll
+C:\Users\soqohm\Desktop\ItorumPlugin\bin\Debug\TFlex.CAD.Strings.dll
+C:\Users\soqohm\Desktop\ItorumPlugin\bin\Debug\EntityFramework.xml
+C:\Users\soqohm\Desktop\ItorumPlugin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\soqohm\Desktop\ItorumPlugin\bin\Debug\TFlexAPI.xml
+C:\Users\soqohm\Desktop\ItorumPlugin\bin\Debug\TFlexAPI3D.xml
+C:\Users\soqohm\Desktop\ItorumPlugin\bin\Debug\TFlexAPIData.xml
+C:\Users\soqohm\Desktop\ItorumPlugin\bin\Debug\TFlexCommandAPI.xml
+C:\Users\soqohm\Desktop\ItorumPlugin\obj\Debug\ItorumPlugin.csproj.AssemblyReference.cache
+C:\Users\soqohm\Desktop\ItorumPlugin\obj\Debug\ItorumPlugin.csproj.CoreCompileInputs.cache
+C:\Users\soqohm\Desktop\ItorumPlugin\obj\Debug\ItorumPlugin.csproj.CopyComplete
+C:\Users\soqohm\Desktop\ItorumPlugin\obj\Debug\ItorumPlugin.dll
+C:\Users\soqohm\Desktop\ItorumPlugin\obj\Debug\ItorumPlugin.pdb
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin _ финалочка рабочая\bin\Debug\ItorumPlugin.dll.config
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin _ финалочка рабочая\bin\Debug\ItorumPlugin.dll
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin _ финалочка рабочая\bin\Debug\ItorumPlugin.pdb
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin _ финалочка рабочая\bin\Debug\EntityFramework.dll
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin _ финалочка рабочая\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin _ финалочка рабочая\bin\Debug\TFlexAPI.dll
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin _ финалочка рабочая\bin\Debug\TFlexAPI3D.dll
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin _ финалочка рабочая\bin\Debug\TFlexAPIData.dll
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin _ финалочка рабочая\bin\Debug\TFlexCommandAPI.dll
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin _ финалочка рабочая\bin\Debug\TFlex.CAD.Strings.dll
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin _ финалочка рабочая\bin\Debug\EntityFramework.xml
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin _ финалочка рабочая\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin _ финалочка рабочая\bin\Debug\TFlexAPI.xml
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin _ финалочка рабочая\bin\Debug\TFlexAPI3D.xml
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin _ финалочка рабочая\bin\Debug\TFlexAPIData.xml
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin _ финалочка рабочая\bin\Debug\TFlexCommandAPI.xml
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin _ финалочка рабочая\obj\Debug\ItorumPlugin.csproj.AssemblyReference.cache
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin _ финалочка рабочая\obj\Debug\ItorumPlugin.csproj.CoreCompileInputs.cache
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin _ финалочка рабочая\obj\Debug\ItorumPlugin.csproj.CopyComplete
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin _ финалочка рабочая\obj\Debug\ItorumPlugin.dll
+C:\Users\soqohm\Desktop\Итого\ItorumPlugin _ финалочка рабочая\obj\Debug\ItorumPlugin.pdb
